@@ -1,2 +1,1 @@
-# slider
-Vertical slider
+https://anast-ananko.github.io/slider/
